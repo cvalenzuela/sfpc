@@ -42,7 +42,7 @@ This will reload when files are changed.
 - [ML5.js](https://github.com/ITPNYU/ml5)
 - [deeplearn.js](https://deeplearnjs.org/)
 
-## Teachers
+## Teachers
 
 - [Yining Shi](https://github.com/yining1023)
 - [Daniel Shiffman](https://github.com/shiffman)
