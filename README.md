@@ -44,6 +44,6 @@ This will reload when files are changed.
 
 ## Teachers
 
-- [Yining Shi](https://github.com/yining1023)
-- [Daniel Shiffman](https://github.com/shiffman)
-- [Cristóbal Valenzuela](https://github.com/cvalenzuela)
+- [Yining Shi](https://github.com/yining1023) - [@yining1023](https://twitter.com/yining1023)
+- [Daniel Shiffman](https://github.com/shiffman) - [@shiffman](https://twitter.com/shiffman)
+- [Cristóbal Valenzuela](https://github.com/cvalenzuela) - [@c_valenzuelab](https://twitter.com/c_valenzuelab)
