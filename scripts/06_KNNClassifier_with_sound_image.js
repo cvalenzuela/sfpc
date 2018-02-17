@@ -26,6 +26,10 @@ function preload() {
 function setup() {
   createCanvas(640, 240);
 
+  // Loop the sounds
+  // sound1.loop();
+  // sound2.loop();
+
   // Create the video element
   video = createCapture(VIDEO);
   video.attribute('width', 227);
