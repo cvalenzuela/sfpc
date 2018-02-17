@@ -102,7 +102,7 @@ function gotResults(results) {
   confidenceA.html('Confidence for A: ' + results.confidences[1]);
   confidenceB.html('Confidence for B: ' + results.confidences[2]);
 
-  // Set the prediction to every 50ms
+  // Set the prediction to every 1s
   setTimeout(() => predict(), 1000);
 }
 
