@@ -37,7 +37,6 @@ function setup() {
   video.hide();
 
   // Message Elements
-  msg = createP('Loading...');
   exampleA = createP('Examples Trained on A: 0');
   confidenceA = createP('Confidence for A: 0');;
   exampleB = createP('Examples Trained on B: 0');
@@ -84,6 +83,7 @@ function draw() {
 
 // A function to be called when the model has been loaded
 function modelLoaded() {
+  msg = createP('Loading...');
   msg.html('Model loaded!');
 }
 
