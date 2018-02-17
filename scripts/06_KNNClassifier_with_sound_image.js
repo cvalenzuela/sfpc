@@ -21,12 +21,14 @@ function preload() {
   // Load sound file
   sound1 = loadSound('../sounds/01.mp3');
   sound2 = loadSound('../sounds/02.mp3');
-  sound1.loop();
-  sound2.loop();
 }
 
 function setup() {
   createCanvas(640, 240);
+
+  // Loop the sounds
+  // sound1.loop();
+  // sound2.loop();
 
   // Create the video element
   video = createCapture(VIDEO);
