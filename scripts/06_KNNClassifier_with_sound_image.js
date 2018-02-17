@@ -21,8 +21,6 @@ function preload() {
   // Load sound file
   sound1 = loadSound('../sounds/01.mp3');
   sound2 = loadSound('../sounds/02.mp3');
-  sound1.loop();
-  sound2.loop();
 }
 
 function setup() {
@@ -67,6 +65,9 @@ function setup() {
 
   buttonPredict = createButton('Start Predicting');
   buttonPredict.mousePressed(predict);
+
+  sound1.loop();
+  sound2.loop();
 }
 
 function draw() {
